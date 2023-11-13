@@ -21,3 +21,5 @@ To cultivate innovation and education, an open-source community is essential. Th
 4. **提交和推送**: 提交您的更改并推送到您的派生存储库。
 5. **拉取请求**: 打开拉取请求，描述您的更改。
 6. **审查和合并**: 等待审查，解决反馈，并合并您的更改。
+7. 
+<sub>此文本是使用人工智能生成的。如果看起来不对，请贡献任何语法更改。</sub>
